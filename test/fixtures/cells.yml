@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mcc: 1
+  mnc: 1
+  lac: 1
+  cid: 1
+  longitude: 1.5
+  latitude: 1.5
+
+two:
+  mcc: 1
+  mnc: 1
+  lac: 1
+  cid: 1
+  longitude: 1.5
+  latitude: 1.5
